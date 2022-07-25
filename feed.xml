@@ -3,33 +3,10 @@
     <title>Tech Talk &amp; Mind Dumps - Getting Static</title>
     <link href="https://grayw.github.io/feed.xml" rel="self" />
     <link href="https://grayw.github.io" />
-    <updated>2022-07-25T10:05:26+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Gray</name>
     </author>
     <id>https://grayw.github.io</id>
 
-    <entry>
-        <title>Test Title</title>
-        <author>
-            <name>Gray</name>
-        </author>
-        <link href="https://grayw.github.io/test-title.html"/>
-        <id>https://grayw.github.io/test-title.html</id>
-
-        <updated>2022-07-25T10:05:26+01:00</updated>
-            <summary>
-                <![CDATA[
-                    This is a test post using the Markdown editor in Publii. Well, time will tell won’t it? The fact that SSL for custom domains on GitHub pages is a little concerning. It may not be required, but it does build trust.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is a test post using the Markdown editor in Publii.</p>
-<h2 id="is-this-ok">Is this OK?</h2>
-<p>Well, time will tell won’t it? The fact that SSL for custom domains on GitHub pages is a little concerning. It may not be required, but it does build trust.</p>
-
-            ]]>
-        </content>
-    </entry>
 </feed>
