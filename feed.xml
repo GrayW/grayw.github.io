@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>TEST - Tech Talk &amp; Mind Dumps</title>
+    <title>Tech Talk &amp; Mind Dumps - Getting Static</title>
     <link href="https://grayw.github.io/grayw.github.io/feed.xml" rel="self" />
     <link href="https://grayw.github.io/grayw.github.io" />
     <updated>2022-07-25T10:05:26+01:00</updated>
@@ -20,7 +20,7 @@
         <updated>2022-07-25T10:05:26+01:00</updated>
             <summary>
                 <![CDATA[
-                    This is a test post using the Markdown editor in Publii. Well, time will tell won’t it? The fact that SSL for custom domains on GitHub pages is a little concerning. It may not be required, but it does build trust.
+                    This is a test post using the Markdown editor in Publii. Well, time will tell won’t it? The fact that&hellip;
                 ]]>
             </summary>
         <content type="html">
