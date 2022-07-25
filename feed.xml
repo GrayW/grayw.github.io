@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TEST - Tech Talk &amp; Mind Dumps</title>
+    <link href="https://grayw.github.io/grayw.github.io/feed.xml" rel="self" />
+    <link href="https://grayw.github.io/grayw.github.io" />
+    <updated>2022-07-25T10:05:26+01:00</updated>
+    <author>
+        <name>Gray</name>
+    </author>
+    <id>https://grayw.github.io/grayw.github.io</id>
+
+    <entry>
+        <title>Test Title</title>
+        <author>
+            <name>Gray</name>
+        </author>
+        <link href="https://grayw.github.io/grayw.github.io/test-title.html"/>
+        <id>https://grayw.github.io/grayw.github.io/test-title.html</id>
+
+        <updated>2022-07-25T10:05:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test post using the Markdown editor in Publii. Well, time will tell won’t it? The fact that SSL for custom domains on GitHub pages is a little concerning. It may not be required, but it does build trust.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post using the Markdown editor in Publii.</p>
+<h2 id="is-this-ok">Is this OK?</h2>
+<p>Well, time will tell won’t it? The fact that SSL for custom domains on GitHub pages is a little concerning. It may not be required, but it does build trust.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
