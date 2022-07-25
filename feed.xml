@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tech Talk &amp; Mind Dumps - Getting Static</title>
-    <link href="https://grayw.github.io/grayw.github.io/feed.xml" rel="self" />
-    <link href="https://grayw.github.io/grayw.github.io" />
+    <link href="https://grayw.github.io/feed.xml" rel="self" />
+    <link href="https://grayw.github.io" />
     <updated>2022-07-25T10:05:26+01:00</updated>
     <author>
         <name>Gray</name>
     </author>
-    <id>https://grayw.github.io/grayw.github.io</id>
+    <id>https://grayw.github.io</id>
 
     <entry>
         <title>Test Title</title>
         <author>
             <name>Gray</name>
         </author>
-        <link href="https://grayw.github.io/grayw.github.io/test-title.html"/>
-        <id>https://grayw.github.io/grayw.github.io/test-title.html</id>
+        <link href="https://grayw.github.io/test-title.html"/>
+        <id>https://grayw.github.io/test-title.html</id>
 
         <updated>2022-07-25T10:05:26+01:00</updated>
             <summary>
